@@ -1,0 +1,136 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BJT-NPN
+D MMBT3904, 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, SOT-23
+K MMBT3904 NPN Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3904.pdf
+$ENDCMP
+#
+$CMP BQ24074
+D Battery charger with power path management
+$ENDCMP
+#
+$CMP CRYSTAL
+D Two pin crystal
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+$CMP DC-JACK
+D DC Jack
+K DC Jack
+$ENDCMP
+#
+$CMP DIODE
+D Diode
+$ENDCMP
+#
+$CMP DIODE_DUAL_Schottky
+D Diode dual schottky
+$ENDCMP
+#
+$CMP DIODE_ESD_BIDIRECTIONAL
+D Bidirectional ESD Protection Diode
+$ENDCMP
+#
+$CMP DIODE_Schottky
+D Diode schottky
+$ENDCMP
+#
+$CMP DTC144EET1G
+D MMBT3904, 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, SOT-23
+K MMBT3904 NPN Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3904.pdf
+$ENDCMP
+#
+$CMP FXMA2012
+D I2C Voltage Translator
+$ENDCMP
+#
+$CMP HL-x5x8-x
+D 2G & 3G GSM Module
+K HL-6528-G, HL-8548-G
+$ENDCMP
+#
+$CMP LED-DUAL
+K LED
+$ENDCMP
+#
+$CMP LED-SINGLE
+K LED
+$ENDCMP
+#
+$CMP LED-TRIPLE-COMMON-ANODE
+K LED
+$ENDCMP
+#
+$CMP MMA845xQ
+D 3-Axis Accelerometer
+K MMA8451Q, MMA8452Q, MMA8453Q
+$ENDCMP
+#
+$CMP MOSFET-N
+D MOSFET-N
+K MOSFET-N
+$ENDCMP
+#
+$CMP MOSFET-P
+D MOSFET-P
+K MOSFET-P
+$ENDCMP
+#
+$CMP PRTR5V0U2X
+D Ultra low capacitance double rail-to-rail ESD protection diode
+$ENDCMP
+#
+$CMP PUMH2
+D PUMH2 Dual NPN Transistor, SOT-363
+K PUMH2 Dual NPN Transistor
+$ENDCMP
+#
+$CMP RESONATOR-BUILT-IN-CAP
+D Two pin crystal
+K Quartz
+$ENDCMP
+#
+$CMP S25FL1xxK0XM
+D Serial Flash
+$ENDCMP
+#
+$CMP SIA921EDJ
+D Dual-MOSFET P
+$ENDCMP
+#
+$CMP SN74AUP1G07
+D Low power buffer with open drain output
+$ENDCMP
+#
+$CMP SN74AUP1T17
+D Low power single Schmitt-trigger buffer gate
+$ENDCMP
+#
+$CMP SN74AUP2G34
+D Low power buffer
+$ENDCMP
+#
+$CMP SN74LVC1G34
+D 5V tolerant buffer
+$ENDCMP
+#
+$CMP TACT-SWITCH_2Pins
+D Tact switch
+$ENDCMP
+#
+$CMP TEENSY-LC
+D Teensy LC
+$ENDCMP
+#
+$CMP TLV702xx
+D 5V tolerant buffer
+$ENDCMP
+#
+$CMP TPS6125xYFF
+D Boost Converter
+K TPS6125x
+$ENDCMP
+#
+#End Doc Library

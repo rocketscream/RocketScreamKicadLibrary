@@ -1,0 +1,10 @@
+(module RECTANGLE-15.5X13 (layer F.Cu) (tedit 0)
+  (fp_text reference G*** (at 0 8.89) (layer F.SilkS) hide
+    (effects (font (thickness 0.3)))
+  )
+  (fp_text value LOGO (at 0 -7.62) (layer F.SilkS) hide
+    (effects (font (thickness 0.3)))
+  )
+  (fp_poly (pts (xy 7.789334 6.519334) (xy -7.704666 6.519334) (xy -7.704666 -6.434666) (xy 7.789334 -6.434666)
+    (xy 7.789334 6.519334)) (layer F.SilkS) (width 0.01))
+)
